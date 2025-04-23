@@ -1,3 +1,7 @@
 .west/config
-build
+build*
+modules*
+zephyr
+zmk
+zmk-pmw3610-driver
 modules/lib/civetweb
